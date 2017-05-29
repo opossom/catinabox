@@ -29,3 +29,5 @@ def is_cat_leap_year(year):
         return False
     else:
         return True
+
+print(cat_years_to_hooman_years(0.1))
